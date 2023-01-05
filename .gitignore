@@ -1,0 +1,2 @@
+# Add node_modules to git ignore
+node_modules/
